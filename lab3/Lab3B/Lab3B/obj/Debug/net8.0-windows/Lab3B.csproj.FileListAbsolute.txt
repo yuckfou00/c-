@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.csproj.GenerateResource.cache
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.AssemblyInfo.cs
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\HairSalonPricingApp.MainForm.resources
+C:\Users\zahra\source\repos\Lab3B\Lab3B\bin\Debug\net8.0-windows\Lab3B.exe
+C:\Users\zahra\source\repos\Lab3B\Lab3B\bin\Debug\net8.0-windows\Lab3B.deps.json
+C:\Users\zahra\source\repos\Lab3B\Lab3B\bin\Debug\net8.0-windows\Lab3B.runtimeconfig.json
+C:\Users\zahra\source\repos\Lab3B\Lab3B\bin\Debug\net8.0-windows\Lab3B.dll
+C:\Users\zahra\source\repos\Lab3B\Lab3B\bin\Debug\net8.0-windows\Lab3B.pdb
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.dll
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\refint\Lab3B.dll
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.pdb
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\Lab3B.genruntimeconfig.cache
+C:\Users\zahra\source\repos\Lab3B\Lab3B\obj\Debug\net8.0-windows\ref\Lab3B.dll

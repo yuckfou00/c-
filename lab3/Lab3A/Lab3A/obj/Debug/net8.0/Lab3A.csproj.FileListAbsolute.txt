@@ -1,0 +1,14 @@
+C:\Users\zahra\source\repos\Lab3A\Lab3A\bin\Debug\net8.0\Lab3A.exe
+C:\Users\zahra\source\repos\Lab3A\Lab3A\bin\Debug\net8.0\Lab3A.deps.json
+C:\Users\zahra\source\repos\Lab3A\Lab3A\bin\Debug\net8.0\Lab3A.runtimeconfig.json
+C:\Users\zahra\source\repos\Lab3A\Lab3A\bin\Debug\net8.0\Lab3A.dll
+C:\Users\zahra\source\repos\Lab3A\Lab3A\bin\Debug\net8.0\Lab3A.pdb
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.AssemblyInfo.cs
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.dll
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\refint\Lab3A.dll
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.pdb
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\Lab3A.genruntimeconfig.cache
+C:\Users\zahra\source\repos\Lab3A\Lab3A\obj\Debug\net8.0\ref\Lab3A.dll
