@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\Lab4b.Form1.resources
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.csproj.GenerateResource.cache
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.AssemblyInfo.cs
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\lab4B\lab4B\bin\Debug\net8.0-windows\lab4B.exe
+C:\Users\zahra\source\repos\lab4B\lab4B\bin\Debug\net8.0-windows\lab4B.deps.json
+C:\Users\zahra\source\repos\lab4B\lab4B\bin\Debug\net8.0-windows\lab4B.runtimeconfig.json
+C:\Users\zahra\source\repos\lab4B\lab4B\bin\Debug\net8.0-windows\lab4B.dll
+C:\Users\zahra\source\repos\lab4B\lab4B\bin\Debug\net8.0-windows\lab4B.pdb
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.dll
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\refint\lab4B.dll
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.pdb
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\lab4B.genruntimeconfig.cache
+C:\Users\zahra\source\repos\lab4B\lab4B\obj\Debug\net8.0-windows\ref\lab4B.dll

@@ -1,0 +1,14 @@
+C:\Users\zahra\source\repos\lab4A\lab4\bin\Debug\net8.0\lab4A.exe
+C:\Users\zahra\source\repos\lab4A\lab4\bin\Debug\net8.0\lab4A.deps.json
+C:\Users\zahra\source\repos\lab4A\lab4\bin\Debug\net8.0\lab4A.runtimeconfig.json
+C:\Users\zahra\source\repos\lab4A\lab4\bin\Debug\net8.0\lab4A.dll
+C:\Users\zahra\source\repos\lab4A\lab4\bin\Debug\net8.0\lab4A.pdb
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.AssemblyInfo.cs
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.dll
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\refint\lab4A.dll
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.pdb
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\lab4A.genruntimeconfig.cache
+C:\Users\zahra\source\repos\lab4A\lab4\obj\Debug\net8.0\ref\lab4A.dll
