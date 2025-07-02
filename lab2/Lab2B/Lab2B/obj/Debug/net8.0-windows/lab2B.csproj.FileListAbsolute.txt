@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\Lab2B\lab2B\bin\Debug\net8.0-windows\lab2B.exe
+C:\Users\zahra\source\repos\Lab2B\lab2B\bin\Debug\net8.0-windows\lab2B.deps.json
+C:\Users\zahra\source\repos\Lab2B\lab2B\bin\Debug\net8.0-windows\lab2B.runtimeconfig.json
+C:\Users\zahra\source\repos\Lab2B\lab2B\bin\Debug\net8.0-windows\lab2B.dll
+C:\Users\zahra\source\repos\Lab2B\lab2B\bin\Debug\net8.0-windows\lab2B.pdb
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.Form1.resources
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.csproj.GenerateResource.cache
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.AssemblyInfo.cs
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.dll
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\refint\lab2B.dll
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.pdb
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\lab2B.genruntimeconfig.cache
+C:\Users\zahra\source\repos\Lab2B\lab2B\obj\Debug\net8.0-windows\ref\lab2B.dll

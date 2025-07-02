@@ -1,0 +1,290 @@
+﻿namespace lab2B
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        private void InitializeComponent()
+        {
+            groupBox1 = new GroupBox();
+            laurabutton = new RadioButton();
+            suebutton = new RadioButton();
+            ronbutton = new RadioButton();
+            patbutton = new RadioButton();
+            janebutton = new RadioButton();
+            groupBox2 = new GroupBox();
+            extensionscheck = new CheckBox();
+            highlightscheck = new CheckBox();
+            colourcheck = new CheckBox();
+            cutcheck = new CheckBox();
+            groupBox3 = new GroupBox();
+            Seniorradio = new RadioButton();
+            Studentradio = new RadioButton();
+            childradio = new RadioButton();
+            adultradio = new RadioButton();
+            label1 = new Label();
+            groupBox4 = new GroupBox();
+            visitstextBox = new TextBox();
+            label2 = new Label();
+            totaltextBox = new TextBox();
+            calculatebutton = new Button();
+            clearbutton = new Button();
+            exitbutton = new Button();
+            groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
+            groupBox3.SuspendLayout();
+            groupBox4.SuspendLayout();
+            SuspendLayout(); 
+            groupBox1.Controls.Add(laurabutton);
+            groupBox1.Controls.Add(suebutton);
+            groupBox1.Controls.Add(ronbutton);
+            groupBox1.Controls.Add(patbutton);
+            groupBox1.Controls.Add(janebutton);
+            groupBox1.Location = new Point(12, 12);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(199, 196);
+            groupBox1.TabIndex = 0;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Hairdresser";
+            groupBox1.Enter += groupBox1_Enter;
+            laurabutton.AutoSize = true;
+            laurabutton.Location = new Point(0, 143);
+            laurabutton.Name = "laurabutton";
+            laurabutton.Size = new Size(120, 24);
+            laurabutton.TabIndex = 4;
+            laurabutton.TabStop = true;
+            laurabutton.Text = "Laura Renkins\n";
+            laurabutton.UseVisualStyleBackColor = true;
+            laurabutton.CheckedChanged += radioButton5_CheckedChanged;
+            suebutton.AutoSize = true;
+            suebutton.Location = new Point(0, 113);
+            suebutton.Name = "suebutton";
+            suebutton.Size = new Size(98, 24);
+            suebutton.TabIndex = 3;
+            suebutton.TabStop = true;
+            suebutton.Text = "Sue Pallon\n";
+            suebutton.UseVisualStyleBackColor = true;
+            suebutton.CheckedChanged += radioButton4_CheckedChanged;
+            ronbutton.AutoSize = true;
+            ronbutton.Location = new Point(0, 83);
+            ronbutton.Name = "ronbutton";
+            ronbutton.Size = new Size(126, 24);
+            ronbutton.TabIndex = 2;
+            ronbutton.TabStop = true;
+            ronbutton.Text = "Ron Chambers\n";
+            ronbutton.UseVisualStyleBackColor = true;
+            patbutton.AutoSize = true;
+            patbutton.Location = new Point(0, 53);
+            patbutton.Name = "patbutton";
+            patbutton.Size = new Size(107, 24);
+            patbutton.TabIndex = 1;
+            patbutton.TabStop = true;
+            patbutton.Text = "Pat Johnson\n";
+            patbutton.UseVisualStyleBackColor = true;
+            janebutton.AutoSize = true;
+            janebutton.Location = new Point(0, 26);
+            janebutton.Name = "janebutton";
+            janebutton.Size = new Size(111, 24);
+            janebutton.TabIndex = 0;
+            janebutton.TabStop = true;
+            janebutton.Text = "Jane Samley";
+            janebutton.UseVisualStyleBackColor = true;
+            janebutton.CheckedChanged += radioButton1_CheckedChanged;
+            groupBox2.Controls.Add(extensionscheck);
+            groupBox2.Controls.Add(highlightscheck);
+            groupBox2.Controls.Add(colourcheck);
+            groupBox2.Controls.Add(cutcheck);
+            groupBox2.Location = new Point(245, 12);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(153, 167);
+            groupBox2.TabIndex = 1;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Services";
+            extensionscheck.AutoSize = true;
+            extensionscheck.Location = new Point(0, 113);
+            extensionscheck.Name = "extensionscheck";
+            extensionscheck.Size = new Size(100, 24);
+            extensionscheck.TabIndex = 3;
+            extensionscheck.Text = "Extensions";
+            extensionscheck.UseVisualStyleBackColor = true;
+            highlightscheck.AutoSize = true;
+            highlightscheck.Location = new Point(0, 83);
+            highlightscheck.Name = "highlightscheck";
+            highlightscheck.Size = new Size(99, 24);
+            highlightscheck.TabIndex = 2;
+            highlightscheck.Text = "Highlights\n";
+            highlightscheck.UseVisualStyleBackColor = true;
+            colourcheck.AutoSize = true;
+            colourcheck.Location = new Point(0, 53);
+            colourcheck.Name = "colourcheck";
+            colourcheck.Size = new Size(75, 24);
+            colourcheck.TabIndex = 1;
+            colourcheck.Text = "Colour";
+            colourcheck.UseVisualStyleBackColor = true;
+            cutcheck.AutoSize = true;
+            cutcheck.Location = new Point(0, 26);
+            cutcheck.Name = "cutcheck";
+            cutcheck.Size = new Size(53, 24);
+            cutcheck.TabIndex = 0;
+            cutcheck.Text = "Cut";
+            cutcheck.UseVisualStyleBackColor = true;
+            groupBox3.Controls.Add(Seniorradio);
+            groupBox3.Controls.Add(Studentradio);
+            groupBox3.Controls.Add(childradio);
+            groupBox3.Controls.Add(adultradio);
+            groupBox3.Location = new Point(12, 230);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(199, 224);
+            groupBox3.TabIndex = 2;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Client Type";
+            Seniorradio.AutoSize = true;
+            Seniorradio.Location = new Point(0, 116);
+            Seniorradio.Name = "Seniorradio";
+            Seniorradio.Size = new Size(72, 24);
+            Seniorradio.TabIndex = 3;
+            Seniorradio.TabStop = true;
+            Seniorradio.Text = "Senior";
+            Seniorradio.UseVisualStyleBackColor = true; 
+            Studentradio.AutoSize = true;
+            Studentradio.Location = new Point(0, 86);
+            Studentradio.Name = "Studentradio";
+            Studentradio.Size = new Size(81, 24);
+            Studentradio.TabIndex = 2;
+            Studentradio.TabStop = true;
+            Studentradio.Text = "Student"; 
+            childradio.AutoSize = true;
+            childradio.Location = new Point(0, 56);
+            childradio.Name = "childradio";
+            childradio.Size = new Size(64, 24);
+            childradio.TabIndex = 1;
+            childradio.TabStop = true;
+            childradio.Text = "Child";
+            childradio.UseVisualStyleBackColor = true;
+            adultradio.AutoSize = true;
+            adultradio.Location = new Point(0, 26);
+            adultradio.Name = "adultradio";
+            adultradio.Size = new Size(130, 24);
+            adultradio.TabIndex = 0;
+            adultradio.TabStop = true;
+            adultradio.Text = "Standard Adult";
+            adultradio.UseVisualStyleBackColor = true;
+            label1.AutoSize = true;
+            label1.Location = new Point(0, 46);
+            label1.Name = "label1";
+            label1.Size = new Size(161, 20);
+            label1.TabIndex = 3;
+            label1.Text = "Number of Client Visits";
+            groupBox4.Controls.Add(visitstextBox);
+            groupBox4.Controls.Add(label1);
+            groupBox4.Location = new Point(245, 244);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(193, 210);
+            groupBox4.TabIndex = 4;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "Client visits";
+            visitstextBox.Location = new Point(6, 89);
+            visitstextBox.Name = "visitstextBox";
+            visitstextBox.Size = new Size(174, 27);
+            visitstextBox.TabIndex = 4; 
+            label2.AutoSize = true;
+            label2.Location = new Point(147, 500);
+            label2.Name = "label2";
+            label2.Size = new Size(77, 20);
+            label2.TabIndex = 5;
+            label2.Text = "total price";
+            totaltextBox.Location = new Point(230, 500);
+            totaltextBox.Name = "totaltextBox";
+            totaltextBox.Size = new Size(125, 27);
+            totaltextBox.TabIndex = 6;
+            calculatebutton.Location = new Point(63, 581);
+            calculatebutton.Name = "calculatebutton";
+            calculatebutton.Size = new Size(94, 29);
+            calculatebutton.TabIndex = 7;
+            calculatebutton.Text = "Calculate";
+            calculatebutton.UseVisualStyleBackColor = true;
+            clearbutton.Location = new Point(204, 581);
+            clearbutton.Name = "clearbutton";
+            clearbutton.Size = new Size(94, 29);
+            clearbutton.TabIndex = 8;
+            clearbutton.Text = "Clear";
+            clearbutton.UseVisualStyleBackColor = true;
+            exitbutton.Location = new Point(358, 584);
+            exitbutton.Name = "exitbutton";
+            exitbutton.Size = new Size(94, 29);
+            exitbutton.TabIndex = 9;
+            exitbutton.Text = "Exit";
+            exitbutton.UseVisualStyleBackColor = true;
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(589, 665);
+            Controls.Add(exitbutton);
+            Controls.Add(clearbutton);
+            Controls.Add(calculatebutton);
+            Controls.Add(totaltextBox);
+            Controls.Add(label2);
+            Controls.Add(groupBox4);
+            Controls.Add(groupBox3);
+            Controls.Add(groupBox2);
+            Controls.Add(groupBox1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Location = new Point(100, 100);
+            Name = "Form1";
+            Text = "Form1";
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            groupBox3.ResumeLayout(false);
+            groupBox3.PerformLayout();
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private GroupBox groupBox1;
+        private RadioButton janebutton;
+        private RadioButton laurabutton;
+        private RadioButton suebutton;
+        private RadioButton ronbutton;
+        private RadioButton patbutton;
+        private GroupBox groupBox2;
+        private CheckBox extensionscheck;
+        private CheckBox highlightscheck;
+        private CheckBox colourcheck;
+        private CheckBox cutcheck;
+        private GroupBox groupBox3;
+        private RadioButton Seniorradio;
+        private RadioButton Studentradio;
+        private RadioButton childradio;
+        private RadioButton adultradio;
+        private Label label1;
+        private GroupBox groupBox4;
+        private TextBox visitstextBox;
+        private Label label2;
+        private TextBox totaltextBox;
+        private Button calculatebutton;
+        private Button clearbutton;
+        private Button exitbutton;
+    }
+}
